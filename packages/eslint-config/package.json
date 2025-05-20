@@ -1,5 +1,5 @@
 {
-  "name": "@repo/eslint-config",
+  "name": "@nexel/eslint-config",
   "version": "0.0.0",
   "type": "module",
   "private": true,

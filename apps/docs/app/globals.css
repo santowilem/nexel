@@ -1,6 +1,6 @@
-@import "tailwindcss";
-@import "@repo/tailwind-config";
-@import "@repo/ui/styles.css";
+@import 'tailwindcss';
+@import '@nexel/tailwind-config';
+@import '@nexel/ui/styles.css';
 
 :root {
   --foreground-rgb: 0, 0, 0;
