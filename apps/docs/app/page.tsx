@@ -1,4 +1,5 @@
-import { Button } from '@nexel/ui/components/button';
+// import { Button } from '@nexel/ui/components/button';
+import { Button } from '@nexel/ui/index';
 
 export default function Page() {
   return (
